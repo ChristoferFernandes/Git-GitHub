@@ -38,6 +38,7 @@
 
 ## Lista de tarefas      
 
-- [ ] Acordar, Tomar banho gelado, e escovar os dentes.
-- [ ] Fazer o café da manhã.
+- [x] Acordar, Tomar banho gelado, e escovar os dentes.
+- [x] Fazer o café da manhã.
 - [ ] Fazer um exercício fisíco e ir estudar.
+- [ ] Ir trabalhar.

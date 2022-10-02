@@ -36,4 +36,8 @@
    - teste004
    - teste0004
 
-## Lista de tarefas                    
+## Lista de tarefas      
+
+- [ ] Acordar, Tomar banho gelado, e escovar os dentes.
+- [ ] Fazer o café da manhã.
+- [ ] Fazer um exercício fisíco e ir estudar.

@@ -1,0 +1,36 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20;
+    
+
+}
+
+body {
+    background-color: rgb(143, 6, 170);
+}
+
+
+img.ladoD{
+    float: right;
+}
+main {
+    background-color: rgb(170, 226, 219);
+    width: 600px;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 3px 3px 5px black;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em;
+    color: rgb(66, 5, 78);
+    
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5em;
+    color: rgb(66, 5, 78);
+}
+

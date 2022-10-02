@@ -51,4 +51,6 @@
 
 # Criando Tabelas.
 Matrícula | Nome do Aluno | Nota do Aluno |
-|---|---|--- 
+|---|---|---
+325 | Christofer Fernandes | 9,8 |
+ 

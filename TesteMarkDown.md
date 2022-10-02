@@ -42,3 +42,5 @@
 - [x] Fazer o café da manhã.
 - [ ] Fazer um exercício fisíco e ir estudar.
 - [ ] Ir trabalhar.
+
+# Adicionando Imagem.

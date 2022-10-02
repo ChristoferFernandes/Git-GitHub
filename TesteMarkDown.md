@@ -52,6 +52,6 @@
 # Criando Tabelas.
 Matrícula | Nome do Aluno | Nota do Aluno |
 |---|---|---
-325 | Christofer Fernandes | 09.80 |
+325 | Christofer Fernandes | 9.80 |
 428 | Elizabeth Fernandes | 10.00 |
 440 | Gizele Salustiano | 10.00 |

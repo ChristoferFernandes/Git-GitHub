@@ -3,5 +3,7 @@
 
 ## Opção de colocar NEGRITO, ITÁLICO, SUBLINHADO.
     ** Teste do Negrito **
-    * Teste do Itálico * 
+    ---
+    * Teste do Itálico *
+    --- 
     ~~ Teste do sublinhado ~~

@@ -1,4 +1,3 @@
-![images](https://user-images.githubusercontent.com/67238384/193476679-50dc4c89-3b1f-43bf-a465-e2ccd7709d96.png)
 # Aula de Teste da linguagem MarkDown.
     Objetivo de fazer diversas coisas aqui para entender como funciona.
 
@@ -45,3 +44,4 @@
 - [ ] Ir trabalhar.
 
 # Adicionando Imagem.
+![images](https://user-images.githubusercontent.com/67238384/193476679-50dc4c89-3b1f-43bf-a465-e2ccd7709d96.png)
